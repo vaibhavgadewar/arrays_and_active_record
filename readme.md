@@ -307,7 +307,7 @@ Other snippets you might use:
     joins(:cars).where(:cars => {:top_speed => 55})
     ("AVG(cars.top_speed) >= ?", 5)
 
-Note: you'll likely need to change stings or numbers to get these to work, they're just examples of how you can use the ActiveRecord Methods
+Note: you'll likely need to change strings or numbers to get these to work, they're just examples of how you can use the ActiveRecord Methods
 
 
 ## 3) Hashes

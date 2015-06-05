@@ -1,27 +1,27 @@
 ## Array Docs
 
-0) Link to the Array documentation:
+0) Link to the Array documentation: http://ruby-doc.org/core-2.2.2/Array.html
 
-1) Direct Link to the `Array#delete_if` method:
+1) Direct Link to the `Array#delete_if` method: http://ruby-doc.org/core-2.2.2/Array.html#method-i-delete_if
 
-2) Link to `Fixnum` docs:
+2) Link to `Fixnum` docs: http://ruby-doc.org/core-2.2.2/Fixnum.html
 
-3) Link to `Fixnum#even?` docs:
+3) Link to `Fixnum#even?` docs: http://ruby-doc.org/core-2.2.2/Fixnum.html#method-i-even-3F
 
-4) Link to `Hash` docs:
+4) Link to `Hash` docs: http://ruby-doc.org/core-2.2.2/Hash.html
 
-5) Link to `Hash.keys` docs:
+5) Link to `Hash.keys` docs: http://ruby-doc.org/core-2.2.2/Hash.html#method-i-keys
 
-6) Link to `String` docs:
+6) Link to `String` docs: http://ruby-doc.org/core-2.2.2/String.html
 
-7) Link to `String#upcase docs:
+7) Link to `String#upcase docs: http://ruby-doc.org/core-2.2.2/String.html#method-i-upcase
 
 
 ## Active Record Docs
 
 
-0) Link to Rail's ActiveRecord querying conditions 
+0) Link to Rail's ActiveRecord querying conditions : http://guides.rubyonrails.org/active_record_querying.html#conditions
 
-1) Link from APIdock to Rail's ActiveRecord querying conditions  
+1) Link from APIdock to Rail's ActiveRecord querying conditions : http://apidock.com/rails/ActiveRecord/Base/
 
-2) 
+2) Link to Rails guides : http://guides.rubyonrails.org/
